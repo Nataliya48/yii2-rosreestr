@@ -9,7 +9,7 @@ class RosreestrService
 {
     /**
      * @param array $cadastralNumbers
-     * @return array
+     * @return Rosreestr array
      */
     public function getByCadastralNumber(array $cadastralNumbers): array
     {
